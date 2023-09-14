@@ -1,10 +1,5 @@
 ## Git Class Example Repo
 
-Hi my name is Nick
+Hi my name is Shway !!
 
-And a fun fact about me is I have a bandaid on my forehead because I fell of my bike
-
-
-Test Change
-
-A fun fact about me is I have a freckle in my eye
+And a fun fact about me is i like elephants
